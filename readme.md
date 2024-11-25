@@ -2,6 +2,9 @@
 # PyAnnote Speaker Diarization Project
 
 このプロジェクトは、PyAnnoteを使用して話者ダイアリゼーションを実行するための環境と手順を提供します。
+1. オフライン事前学習モデルを使用したDiarizationの実行
+2. 実行結果描画に確信度を色で表現
+3. 既知の話者を辞書登録して推論
 
 ---
 
