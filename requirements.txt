@@ -1,0 +1,7 @@
+pyannote.audio
+ffmpeg-python
+onnxruntime
+torchsummary
+torchviz
+sounddevice
+ipykernel

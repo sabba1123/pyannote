@@ -1,0 +1,13 @@
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# 環境ファイルや設定
+.vscode/
+*.log
+
+# バックアップ
+*.bak
+
